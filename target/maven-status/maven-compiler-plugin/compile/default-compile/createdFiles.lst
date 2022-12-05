@@ -1,3 +1,5 @@
-com\example\springbootprometheusdocker\controller\HelloController.class
-com\example\springbootprometheusdocker\scheduler\Scheduler.class
+com\example\springbootprometheusdocker\prometheusController\PrometheusController.class
+com\example\springbootprometheusdocker\ElasticStack\ElasticController.class
 com\example\springbootprometheusdocker\SpringBootPrometheusDockerApplication.class
+com\example\springbootprometheusdocker\ElasticStack\User.class
+com\example\springbootprometheusdocker\prometheusScheduler\PrometheusScheduler.class
